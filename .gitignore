@@ -1,0 +1,23 @@
+# Virtual environment
+funasr-env/
+.venv/
+venv/
+
+# Playwright MCP
+.playwright-mcp/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model cache
+.cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
